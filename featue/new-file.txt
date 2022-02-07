@@ -1,0 +1,4 @@
+new-file.txt
+one
+two
+three
